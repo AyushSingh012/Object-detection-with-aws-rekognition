@@ -29,7 +29,7 @@ This project utilizes Python 3.10 and the AWS Rekognition service to perform obj
 
 The input video used for object detection is a recording of zebras in their natural habitat. The video contains various scenes of zebras running and moving around.
 
-[![Sample Video](https://drive.google.com/uc?export=download&id=1CyIObSoH6sk-3MBE-jGu4bPR5rXltU5D)](https://drive.google.com/file/d/1CkEk_Z7s06aJKtx4Gc0xmcwwXKp6dBm8/view?usp=sharing)
+[![Sample Video](https://drive.google.com/file/d/1CyIObSoH6sk-3MBE-jGu4bPR5rXltU5D/view?usp=sharing)](https://drive.google.com/file/d/1CkEk_Z7s06aJKtx4Gc0xmcwwXKp6dBm8/view?usp=sharing)
 
 ## Object Detection Video
 
