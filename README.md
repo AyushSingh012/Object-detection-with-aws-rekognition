@@ -29,14 +29,22 @@ This project utilizes Python 3.10 and the AWS Rekognition service to perform obj
 
 The input video used for object detection is a recording of zebras in their natural habitat. The video contains various scenes of zebras running and moving around.
 
-[![Sample Video](https://github.com/AyushSingh012/Object-detection-with-aws-rekognition/assets/109151442/f8cc3a6d-1796-477a-aa77-34a40c8b1bc2)](https://drive.google.com/file/d/1CkEk_Z7s06aJKtx4Gc0xmcwwXKp6dBm8/view?usp=sharing)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1CkEk_Z7s06aJKtx4Gc0xmcwwXKp6dBm8/view?usp=sharing">
+    <img src="https://github.com/AyushSingh012/Object-detection-with-aws-rekognition/assets/109151442/f8cc3a6d-1796-477a-aa77-34a40c8b1bc2" alt="Sample Video" width="400">
+  </a>
+</p>
 
 
 ## Object Detection Video
 
 The object detection video is the result of running the object detection script on the input video. It shows the same scenes as the sample video but with bounding boxes drawn around the detected zebras.
 
-[![Object Detection Video](https://github.com/AyushSingh012/Object-detection-with-aws-rekognition/assets/109151442/f8cc3a6d-1796-477a-aa77-34a40c8b1bc2)](https://drive.google.com/file/d/1Cr8jf9rRU439NqvMxUz0N9pY29ilKZoI/view?usp=sharing)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Cr8jf9rRU439NqvMxUz0N9pY29ilKZoI/view?usp=sharing">
+    <img src="https://github.com/AyushSingh012/Object-detection-with-aws-rekognition/assets/109151442/f8cc3a6d-1796-477a-aa77-34a40c8b1bc2" alt="Object Detection Video" width="400">
+  </a>
+</p>
 
 
 ## Contributing
